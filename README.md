@@ -34,3 +34,10 @@ over time.
 - Ensure that your dashboard is user-friendly and intuitive.
 - Use appropriate color schemes and layouts for clarity.
 
+6. Plot Uses :
+- Bar chart to show the number of terrorist attacks over time.
+- Map Plot To See the Area of attacks
+- Pie Chart to show the types of weapons used in attacks
+- Scatter Plot to show the relationship between the number of attacks and casualties.
+- Uses Total Number of KPI of total Targets and Max to Max Atack 
+- A Using Nav bar to show country wise Target
